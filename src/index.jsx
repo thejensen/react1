@@ -1,5 +1,5 @@
-// tell the library what to render, which is our greeting and the required root
-// node.
+// tell the library what to render, which is our greeting and the required root node.
+// you need a , after the last div, because it's list of things React is rendering I guess?
 
 ReactDOM.render(
   <div>
